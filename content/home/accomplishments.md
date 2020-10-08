@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certificates"
 subtitle = ""
 
 # Date format
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "CompTIA A+"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2012"
   date_end = ""
   description = """CompTIA A+ certification represents entry-level competency as a computer technician and is a vendor neutral certification that covers various technologies and operating systems"""
 
