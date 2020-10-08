@@ -26,11 +26,18 @@ subtitle = ""
   name = "Programming"
   description = "C++/Pyhton/Matlab"  
   
+  [[feature]]
+  icon = "mixcloud"
+  icon_pack = "fab"
+  name = "Cloud Computing"
+  description = "AWS/Citrix (2x) "
+  
 [[feature]]
   icon = "windows"
   icon_pack = "fab"
   name = "Operating System"
   description = "Windows client/server "
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
