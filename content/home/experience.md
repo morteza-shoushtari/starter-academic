@@ -80,7 +80,5 @@ date_format = "Jan 2006"
   location = "IRAN"
   date_start = "2013-011-01"
   date_end = "2015-06-01"
-  description = """ Responsibilities include:
-  
-  * Programmed and maintained company's website"""
+  description = """Programmed and maintained company's website (lotuslaptop.com)"""
 +++
