@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Morteza Shoushtari is a Ph.D. student in the department of Electrical and Computer Engineering (ECE), Brigham Young University. Currently, he is working on physical layer security, and Secrecy/Error Correction coding on Caching channels, in Information Theory and Communications Engineering (ICE) Lab. His research interests include computer networks, cloud computing and physical layer security.
+Morteza Shoushtari is a Ph.D. student in the department of Electrical and Computer Engineering (ECE), Brigham Young University. Currently, he is working on physical layer security, and secrecy/error correction coding on caching channels, in Information Theory and Communications Engineering (ICE) Lab. His research interests include computer networks, cloud computing and physical layer security.
 He has 6 years of work experience as an IT administrator and network engineer in big companies such as Huawei Technologies Co., JYANE Construction Co., Persia Cloud Co. (2X), and Lotus Company. 
 
