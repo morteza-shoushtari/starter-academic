@@ -39,10 +39,16 @@ subtitle = ""
   description = "Windows client/server "
   
   [[feature]]
-  icon = "uncharted"
+  icon = "project-diagram"
   icon_pack = "fas"
   name = "Virtualization"
   description = "VMware ESX/VCenter "
+
+  [[feature]]
+  icon = "connectdevelop"
+  icon_pack = "fab"
+  name = "Coding"
+  description = "Secrecy/Error-Correction coding "
 
 # Uncomment to use emoji icons.
 # [[feature]]
