@@ -38,33 +38,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = "CompTIA Network+ is the entry-level certification is used to measure skill as a network technician."
   
-[[item]]
-  organization = "i3center"
-  organization_url = ""
-  title = "CCNA (Cisco Certified Network Associate)"
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = "CCNA certification is an associate-level Cisco Career certification. "
-
-[[item]]
-  organization = "i3center"
-  organization_url = ""
-  title = "MCITP (Microsoft Certified IT Professional)"
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = "MCITP is a credential that proves that an individual has a complete set of skills required to perform a particular IT job role, such as enterprise or virtualization administrator. "
-  
-  [[item]]
-  organization = "HUAWEI"
-  organization_url = ""
-  title = "HCNA (Huawei Certified Network Associate)"
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = "HCNA certification validates the knowledge and skills required for basic configuration and maintenance of small to medium-sized networks. "
 +++
