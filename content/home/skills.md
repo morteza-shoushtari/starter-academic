@@ -27,7 +27,7 @@ subtitle = ""
   description = "C++/Pyhton/Matlab"  
   
   [[feature]]
-  icon = "cloudverify"
+  icon = "cloudversify"
   icon_pack = "fab"
   name = "Cloud Computing"
   description = "AWS/Citrix (2x) "
@@ -40,7 +40,7 @@ subtitle = ""
   
   [[feature]]
   icon = "uncharted"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Virtualization"
   description = "VMware ESX/VCenter "
 
