@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "CompTIA A+"
   url = ""
   certificate_url = ""
-  date_start = "2012"
+  date_start = "2012-01-01"
   date_end = ""
-  description = """CompTIA A+ certification represents entry-level competency as a computer technician and is a vendor neutral certification that covers various technologies and operating systems"""
+  description = "CompTIA A+ certification represents entry-level competency as a computer technician and is a vendor neutral certification that covers various technologies and operating systems"
 
 +++
