@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certificates"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,52 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "i3center"
+  organization_url = ""
+  title = "CompTIA A+"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = ""
   date_end = ""
-  description = ""
+  description = "CompTIA A+ certification represents entry-level competency as a computer technician and is a vendor neutral certification that covers various technologies and operating systems."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "i3center"
+  organization_url = ""
+  title = "CompTIA Network+"
+  url = ""
+  certificate_url = ""
+  date_start = ""
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "CompTIA Network+ is the entry-level certification is used to measure skill as a network technician."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "i3center"
+  organization_url = ""
+  title = "CCNA (Cisco Certified Network Associate)"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "CCNA certification is an associate-level Cisco Career certification. "
 
+[[item]]
+  organization = "i3center"
+  organization_url = ""
+  title = "MCITP (Microsoft Certified IT Professional)"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "MCITP is a credential that proves that an individual has a complete set of skills required to perform a particular IT job role, such as enterprise or virtualization administrator. "
+  
+  [[item]]
+  organization = "HUAWEI"
+  organization_url = ""
+  title = "HCNA (Huawei Certified Network Associate)"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "HCNA certification validates the knowledge and skills required for basic configuration and maintenance of small to medium-sized networks. "
 +++
