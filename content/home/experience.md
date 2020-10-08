@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CGraduate Research Assistant"
-  company = "ICE Lab,BYU"
+  title = "Graduate Research Assistant"
+  company = "ICE Lab, BYU"
   company_url = "https://ece.byu.edu/"
   location = "UTAH"
   date_start = "2019-01-01"
   date_end = ""
-  description = """RA with the emphasize on physical layer security and SECC coding on caching channels
+  description = """RA with the emphasize on physical layer security and SECC coding on caching channels.
   Responsibilities include:
   
   * Analysing
@@ -33,12 +33,57 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "IT Administrator"
+  company = "Huawei Technologies Co."
+  company_url = "https://www.huawei.com/us/"
+  location = "Tehran, IRAN"
+  date_start = "2016-08-01"
+  date_end = "2017-08-01"
+  description = """ Responsibilities include:
+  
+  * Maintained communication networks, monitor network performance, and resolved any technical issues
+  * Provided 24*7 level one support over 850 clients
+  * Installed and configured network devices, including routers, switches, wireless AP's, camera's, and video conferences
+  """
 
+[[experience]]
+  title = "Network Engineer"
+  company = "JYAN Construction Co."
+  company_url = "https://en.jyane.ir/"
+  location = "Tehran, IRAN"
+  date_start = "2016-01-01"
+  date_end = "2016-08-01"
+  description = """ Responsibilities include:
+  
+  * Maintained communication networks, monitor network performance, and resolved any technical issues
+  * Provided 24*7 level one support over 180 clients
+  * Installed and configured network devices, including routers, switches, wireless AP's, camera's, and video conferences
+  """
+  
+  
+[[experience]]
+  title = "Network Engineer"
+  company = "Persia Cloud Co."
+  company_url = ""
+  location = "Tehran, IRAN"
+  date_start = "2015-06-01"
+  date_end = "2016-01-01"
+  description = """ Responsibilities include:
+  
+  * Installed and configured 2X and IIRAS cloud platforms (IIAS, PAAS)
+  * Installed and configured Microsoft Servers (CRM, SharePoint, Lync)
+  * Installed and configured network devices, including routers, switches
+  """
+  
+  [[experience]]
+  title = "Website Developer"
+  company = "Lotus Co."
+  company_url = "https://lotuslaptop.com/"
+  location = "Tehran, IRAN"
+  date_start = "2013-011-01"
+  date_end = "2015-06-01"
+  description = """ Responsibilities include:
+  
+  * Programmed and maintained company's website
+  """
 +++
