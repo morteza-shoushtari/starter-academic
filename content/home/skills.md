@@ -40,7 +40,7 @@ subtitle = ""
   
   [[feature]]
   icon = "uncharted"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Virtualization"
   description = "VMware ESX/VCenter "
 
