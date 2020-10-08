@@ -27,7 +27,7 @@ subtitle = ""
   description = "C++/Pyhton/Matlab"  
   
   [[feature]]
-  icon = "mixcloud"
+  icon = "cloudverify"
   icon_pack = "fab"
   name = "Cloud Computing"
   description = "AWS/Citrix (2x) "
@@ -38,6 +38,11 @@ subtitle = ""
   name = "Operating System"
   description = "Windows client/server "
   
+  [[feature]]
+  icon = "uncharted"
+  icon_pack = "fab"
+  name = "Virtualization"
+  description = "VMware ESX/VCenter "
 
 # Uncomment to use emoji icons.
 # [[feature]]
