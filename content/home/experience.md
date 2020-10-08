@@ -59,31 +59,5 @@ date_format = "Jan 2006"
   * Provided 24*7 level one support over 180 clients
   * Installed and configured network devices, including routers, switches, wireless AP's, camera's, and video conferences
   """
-  
-  
-[[experience]]
-  title = "Network Engineer"
-  company = "Persia Cloud Co."
-  company_url = ""
-  location = "IRAN"
-  date_start = "2015-06-01"
-  date_end = "2016-01-01"
-  description = """ Responsibilities include:
-  
-  * Installed and configured 2X and IIRAS cloud platforms (IIAS, PAAS)
-  * Installed and configured Microsoft Servers (CRM, SharePoint, Lync)
-  * Installed and configured network devices, including routers, switches
-  """
-  
-  [[experience]]
-  title = "Website Developer"
-  company = "Lotus Co."
-  company_url = "https://lotuslaptop.com/"
-  location = "IRAN"
-  date_start = "2013-011-01"
-  date_end = "2015-06-01"
-  description = """ Responsibilities include:
-  
-  * Programmed and maintained company's website
-  """
+
 +++
