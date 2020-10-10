@@ -24,7 +24,7 @@ subtitle = ""
   icon = "keyboard"
   icon_pack = "fas"
   name = "Programming"
-  description = "C++/Pyhton/Matlab"  
+  description = "C++/Python/Matlab"  
   
   [[feature]]
   icon = "cloudversify"
