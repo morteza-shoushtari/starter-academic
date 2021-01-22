@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   [[item]]
   organization = "Engineering Honors Society "
   organization_url = ""
-  title = "Phi Kappa Phi "
+  title = "Eta Kappa Nu  "
   url = ""
   certificate_url = ""
   date_start = "2020-04-01"
