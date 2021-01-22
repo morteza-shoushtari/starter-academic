@@ -68,13 +68,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = "HCNA certification validates the knowledge and skills required for basic configuration and maintenance of small to medium-sized networks. "
   
-  [[item]]
-  organization = "Engineering Honors Society "
-  organization_url = ""
-  title = "Eta Kappa Nu  "
-  url = ""
-  certificate_url = ""
-  date_start = "2020-04-01"
-  date_end = ""
-  description = "This Society is the nation's oldest, largest, and most selective all-discipline honor society. "
 +++
