@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Certificates & Awards"
+title = "Certificates & Honors"
 subtitle = ""
 
 # Date format
@@ -76,5 +76,5 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-04-01"
   date_end = ""
-  description = "The Society is the nation's oldest, largest, and most selective all-discipline honor society. "
+  description = "This Society is the nation's oldest, largest, and most selective all-discipline honor society. "
 +++
