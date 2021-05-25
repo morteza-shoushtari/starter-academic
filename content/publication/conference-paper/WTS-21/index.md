@@ -1,8 +1,8 @@
 ---
-title: "Polarization diversity and equalization of frequency selective channels in telemetry environment for 16APSK"
+title: "On Caching with Finite Blocklength Coding for Secrecy over the Binary Erasure Wiretap Channel"
 authors:
+- Willie K. Harrison
 - admin
-- Michael Rice
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -10,7 +10,7 @@ date: "2019-09-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-09-13T00:00:00Z"
+publishDate: "2021-04-13T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publishDate: "2019-09-13T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International telemetry conference (ITC)"
+publication: "Wireless Telecommunications Symposium (WTS)"
 publication_short: ""
 
-abstract: Providing RHCP and LHCP outputs from the antennas vertical (V) and horizontal (H) dipoles in the resonant cavity within the antenna feeds is the current practice of ground-based station receivers in aeronautical telemetry. The equalizers on the market, operate on either LHCP or RHCP alone, or a combined signal created by co-phasing and adding the RHCP and LHCP outputs. In this paper, we show how to optimally combine the V and H dipole outputs and demonstrate that an equalizer operating on this optimally-combined signal outperforms an equalizer operating on the RHCP, LHCP, or the combined signals. Finally, we show how to optimally combine the RHCP and LHCP outputs for equalization, where this optimal combination performs as good as the optimally combined V and H signals. 
+abstract: In this paper, we show that caching can aid in achieving secure communications by considering a wiretap scenario where the transmitter and legitimate receiver share access to a secure cache, and an eavesdropper is able to tap transmissions over a binary erasure wiretap channel during the delivery phase of a caching protocol. The scenario under consideration gives rise to a new channel model for wiretap coding that allows the transmitter to effectively choose a subset of bits to erase at the eavesdropper by caching the bits ahead of time. The eavesdropper observes the remainder of the coded bits through the wiretap channel for the general case. In the wiretap type-II scenario, the eavesdropper is able to choose a set of revealed bits only from the subset of bits not cached. We present a coding approach that allows efficient use of the cache to realize a caching gain in the network, and show how to use the cache to optimize the information theoretic security in the choice of a finite blocklength code and the choice of the cached bit set. To our knowledge, this is the first work on explicit algorithms for secrecy coding in any type of caching network.
 # Summary. An optional shortened abstract.
 summary:
 
@@ -33,7 +33,7 @@ summary:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://arxiv.org/pdf/1909.06001.pdf"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9433710"
 url_code: ''
 url_dataset: ''
 url_poster: ''
