@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Research Assistant
+role: Ph.D. Research Assistant | BYU
 
 # Organizations/Affiliations
 organizations:
