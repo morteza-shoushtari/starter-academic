@@ -45,6 +45,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "shoushtari.morteza@live.com".
+  - icon: google-scholar
+  icon_pack: ai
+  ai = true
+  link: https://scholar.google.com/citations?hl=en&user=TML1NrUAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Mortezashoush
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/morteza-shoushtari/
