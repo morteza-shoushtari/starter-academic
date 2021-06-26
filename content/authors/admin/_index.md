@@ -14,8 +14,8 @@ role: Ph.D. Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Brigham Young University
-  url: "https://www.byu.edu/"
+- name: Google Scholar
+  url: "https://scholar.google.com/citations?hl=en&user=TML1NrUAAAAJ"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wired/wireless network, cloud computing and Physical Layer Security / Coding.
@@ -45,10 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "shoushtari.morteza@live.com".
-  - icon: google-scholar
-  icon_pack: ai
-  ai = true
-  link: https://scholar.google.com/citations?hl=en&user=TML1NrUAAAAJ
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Mortezashoush
